@@ -5,7 +5,8 @@ Former dental student turned results-driven full-stack software developer with a
 
 Get to know more about me on [LinkedIn](https://www.linkedin.com/in/alannhans/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhvn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhvn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
