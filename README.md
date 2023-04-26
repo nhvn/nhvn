@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Former dental student turned results-driven full-stack software developer with a passion for problem-solving. Skilled in prioritizing tasks, collaborating with teams, and bringing a strong analytical and organizational approach to fast-paced environments. Seeking new opportunities to apply technical expertise in software development.
+
 <!--
 **nhvn/nhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
