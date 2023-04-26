@@ -1,8 +1,9 @@
+![Banner](https://user-images.githubusercontent.com/48068226/234437118-a35c3542-dc91-4b5e-b0f6-d630543f6fa1.png)
 ### Hi there 👋
 
-![Banner](https://user-images.githubusercontent.com/48068226/234437118-a35c3542-dc91-4b5e-b0f6-d630543f6fa1.png)
-
 Former dental student turned results-driven full-stack software developer with a passion for problem-solving. Skilled in prioritizing tasks, collaborating with teams, and bringing a strong analytical and organizational approach to fast-paced environments. Seeking new opportunities to apply technical expertise in software development.
+
+Get to know me on [LinkedIn](https://www.linkedin.com/in/alannhans/).
 
 <!--
 **nhvn/nhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
