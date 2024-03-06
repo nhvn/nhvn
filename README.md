@@ -3,7 +3,7 @@
 
 Former dental student turned results-driven full-stack software developer with a passion for problem-solving. Skilled in prioritizing tasks, collaborating with teams, and bringing a strong analytical and organizational approach to fast-paced environments. Seeking new opportunities to apply technical expertise in software development.
 
-Get to know more about me on [LinkedIn](https://www.linkedin.com/in/alannhans/) or check out my [Portfolio](https://www.alannhvn.com/).
+Get to know more about me on [LinkedIn](https://www.linkedin.com/in/alannhans/) and check out my [Portfolio](https://www.alannhvn.com/)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhvn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
