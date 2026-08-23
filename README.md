@@ -5,10 +5,6 @@ Full-stack software engineer with a passion for problem-solving, building across
 
 Get to know more about me on [LinkedIn](https://www.linkedin.com/in/alannhans/) and check out my [Portfolio](https://www.alannhvn.com/)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhvn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!--
 **nhvn/nhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
