@@ -1,7 +1,7 @@
 ![White and Gray Minimalist Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/48068226/234437624-20450cdc-6370-43a7-a199-62e73f0aa02a.png)
 ### Hi there 👋
 
-Former dental student turned results-driven full-stack software developer with a passion for problem-solving. Skilled in prioritizing tasks, collaborating with teams, and bringing a strong analytical and organizational approach to fast-paced environments. Seeking new opportunities to apply technical expertise in software development.
+Full-stack software engineer with a passion for problem-solving, building across web, data, and AI-driven products.
 
 Get to know more about me on [LinkedIn](https://www.linkedin.com/in/alannhans/) and check out my [Portfolio](https://www.alannhvn.com/)!
 
